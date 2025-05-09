@@ -11,3 +11,10 @@ I have been coding for roughly 5 years now, and I find myself coding more backen
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+## My Certifications
+
+<p align="center">
+  <img src="./public/digital-logic-design.png" alt="Badge 1" width="150" height="150" />
+  <img src="./public/java-gui-and-software-design-pattern.png" alt="Badge 2" width="150" height="150" />
+</p>

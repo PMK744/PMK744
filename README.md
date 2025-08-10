@@ -15,6 +15,7 @@ I have been coding for roughly 5 years now, and I find myself coding more backen
 ## My Certifications
 
 <p align="center">
-  <img src="./public/digital-logic-design.png" alt="Badge 1" width="150" height="150" />
-  <img src="./public/java-gui-and-software-design-pattern.png" alt="Badge 2" width="150" height="150" />
+  <img src="./public/digital-logic-design.png" alt="Digital Logic Design" width="150" height="150" />
+  <img src="./public/java-gui-and-software-design-pattern.png" alt="Java GUI and Software Design Pattern" width="150" height="150" />
+  <img src="./public/raspberry-pi-and-cloud-web-interface.png" alt="Raspberry Pi and Cloud Web Interface" width="150" height="150" />
 </p>

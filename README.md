@@ -18,4 +18,6 @@ I have been coding for roughly 5 years now, and I find myself coding more backen
   <img src="./public/digital-logic-design.png" alt="Digital Logic Design" width="150" height="150" />
   <img src="./public/java-gui-and-software-design-pattern.png" alt="Java GUI and Software Design Pattern" width="150" height="150" />
   <img src="./public/raspberry-pi-and-cloud-web-interface.png" alt="Raspberry Pi and Cloud Web Interface" width="150" height="150" />
+  <img src="./public/cloud-web-applications-development.png" alt="Cloud Web Applications Development" width="150" height="150" />
+  <img src="./public/flutter-mobile-applications-development.png" alt="Flutter Mobile Applications Development" width="150" height="150" />
 </p>
